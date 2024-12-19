@@ -1,0 +1,10 @@
+1 cat
+2 dog
+3 elephant
+4 horse
+5 pig
+6 rat
+7 mouse
+8 lion
+9 tiger
+10 puppy

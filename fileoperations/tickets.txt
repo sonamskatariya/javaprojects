@@ -1,0 +1,5 @@
+Chicago-Aurora,20.5 
+Aurora-Joliet,10.7  
+Joliet-Kankakee,25.35 
+Kankakee-Springfield,50 
+Springfield-Chicago,60.3 
